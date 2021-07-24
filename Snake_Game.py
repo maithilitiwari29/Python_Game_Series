@@ -2,6 +2,7 @@ import random
 import pygame
 import os
 
+#This is the command to initialse the pygame
 pygame.init()
 
 #colors
